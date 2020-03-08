@@ -1,0 +1,69 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+   }
+
+.line{
+    height:2px!important;
+    box-shadow: 4px 4px 10px 2px#9D2D2C!important;
+}
+
+.try{
+    height: 400px;
+}
+
+.fixed-image{
+    background: url(../img/fix-banner.jpeg)center/cover no-repeat fixed;
+}
+.fix-image-text{
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #414097;
+}
+.fixed-banner-height{
+    min-height: 60vh;
+}
+.dropdown-item,
+.item
+{
+    color:#9D2D2C!important;
+}
+.style-btn{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #9D2D2C;
+}
+.style-btn:hover{
+background-color: #414097;
+color: white;
+border: 3px solid  #414097;
+}
+.title-text{
+    color: white;
+    text-shadow: 3px 3px 5px  #414097;
+}
+.fb,.insta,.whatsapp{
+    font-size: 2rem;
+    color: white;
+}
+
+.map{
+    min-height: 54vh;
+}
+   @media (max-width: 992px) {
+    
+    } 
+    
+    @media (min-width:992px) {
+        a.nav-link{
+            font-size:20px;
+        }
+   
+    }
+      
+    @media (max-width: 768px) {
+        
+    }
+    @media (max-width: 576px) {
+        
+    }
+
